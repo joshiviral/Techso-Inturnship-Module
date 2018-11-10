@@ -1,0 +1,4 @@
+This live project can be used in specific organization which provides internship program. Admin or HR manager will be the main user who will use this application, as well as an intern will be able to view his/her records once registered. HR manager will mainly use this application to store and view interns records on regular time intervals. Based on that first of all HR will enroll the intern, further faculty will be assigned to intern on the selection of course. HR manager can also register new faculty if any employee joins the organization. 
+Moreover HR manager can also add new courses if any course is being introduced in the organization.  
+Interns can login, view their records and can request for leave if they want. 
+Interns can also give a feedback if they need any changes in the teaching method or any other issues related in organization. 
